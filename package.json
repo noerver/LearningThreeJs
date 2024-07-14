@@ -1,0 +1,14 @@
+{
+  "name": "learningthreejs",
+  "version": "1.0.0",
+  "description": "Learning Three.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "three.js"
+  ],
+  "author": "tom",
+  "license": "ISC"
+}
