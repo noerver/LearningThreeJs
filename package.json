@@ -1,0 +1,12 @@
+{
+  "name": "learningthreejs",
+  "version": "1.0.0",
+  "description": "Learning Three.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "cd vue-ts && npm run dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
